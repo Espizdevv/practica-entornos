@@ -1,0 +1,17 @@
+.entorno {
+  background: #2e9e4f;
+  color: #fff;
+  padding: 1.5rem 2rem;
+  border-radius: 12px;
+  margin-top: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+.etiqueta {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.25);
+  padding: 0.2rem 0.8rem;
+  border-radius: 999px;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+}
+h2 { margin: 0.8rem 0 0; }
