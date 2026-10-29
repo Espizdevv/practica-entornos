@@ -41,3 +41,5 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+# Componente de entorno: cada rama tiene su propia versión
+src/app/entorno/
