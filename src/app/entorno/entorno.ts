@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrl: './entorno.css'
 })
 export class Entorno {
-  readonly nombre = 'PROD';
-  readonly mensaje = 'Entorno de producción';
+  readonly nombre = 'UAT';
+  readonly mensaje = 'Entorno de aceptación UAT';
 }
